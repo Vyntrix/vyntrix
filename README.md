@@ -8,4 +8,4 @@
 🌹 Posting Blogs soon on [my website](https://vyntrix.me) (not online yet)<br/>
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Vyntrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyntrix)](https://github.com/anuraghazra/github-readme-stats)
+[![Vyntrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyntrix&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
